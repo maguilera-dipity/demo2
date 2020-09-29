@@ -1,74 +1,39 @@
 {
   "clientes": [
     {
-      "apellidos": "Godoy",
-      "id": 0,
-      "mail": "eeeee@gmail.com",
-      "nombres": "Manuel",
-      "telefono": "00000000000"
-    },
-    {
       "apellidos": "Abad",
-      "id": 1,
-      "mail": "wwwwww@gmail.com",
-      "nombres": "Adderly",
+      "id": 0,
+      "mail": "rrrrrr@gmail.com",
+      "nombres": "Lucia",
       "telefono": "1234567890"
     },
     {
-      "apellidos": "Torres",
-      "id": 2,
-      "mail": "wwwwww@gmail.com",
-      "nombres": "Adderly",
-      "telefono": "0642875319"
-    },
-    {
-      "apellidos": "Brito",
-      "id": 3,
+      "apellidos": "Godoy",
+      "id": 1,
       "mail": "rrrrrr@gmail.com",
       "nombres": "Juan",
       "telefono": "9999999999"
     },
     {
       "apellidos": "Torres",
-      "id": 4,
-      "mail": "qqqqqq@gmail.com",
-      "nombres": "Maria",
-      "telefono": "0998659742"
-    },
-    {
-      "apellidos": "Abad",
-      "id": 5,
-      "mail": "eeeee@gmail.com",
-      "nombres": "Juan",
-      "telefono": "00000000000"
-    },
-    {
-      "apellidos": "Godoy",
-      "id": 6,
+      "id": 2,
       "mail": "wwwwww@gmail.com",
-      "nombres": "Manuel",
-      "telefono": "00000000000"
-    },
-    {
-      "apellidos": "Abad",
-      "id": 7,
-      "mail": "qqqqqq@gmail.com",
-      "nombres": "Manuel",
+      "nombres": "Lucia",
       "telefono": "0998659742"
     },
     {
       "apellidos": "Torres",
-      "id": 8,
-      "mail": "qqqqqq@gmail.com",
+      "id": 3,
+      "mail": "rrrrrr@gmail.com",
       "nombres": "Lucia",
-      "telefono": "0642875319"
+      "telefono": "1234567890"
     },
     {
       "apellidos": "Godoy",
-      "id": 9,
+      "id": 4,
       "mail": "rrrrrr@gmail.com",
-      "nombres": "Lucia",
-      "telefono": "0998659742"
+      "nombres": "Maria",
+      "telefono": "00000000000"
     }
   ],
   "ordenes": [
@@ -139,84 +104,10 @@
         }
       ],
       "id": 0,
-      "id_cliente": 14,
-      "id_estado": 1,
+      "id_cliente": 13,
+      "id_estado": 3,
       "metodo_pago": "efectivo",
-      "nombre_cliente": "Maria Torres",
-      "referencia": "Frente a tu casa",
-      "telefono": "00000000000"
-    },
-    {
-      "cambio": "de 100",
-      "detail_order": [
-        {
-          "adicionales": [
-            {
-              "cantidad": 1,
-              "nombre": "Azucar",
-              "precio": 5,
-              "tipo": "Extras"
-            }
-          ],
-          "cantidad": 4,
-          "comentario": "Prueba 1",
-          "id_producto": 1,
-          "nombre_producto": "Caramel Latte",
-          "personalizacion": [
-            {
-              "cantidad": 1,
-              "nombre": "12 onzas",
-              "precio": 15,
-              "tipo": "Tamano"
-            }
-          ]
-        },
-        {
-          "adicionales": [
-            {
-              "cantidad": 1,
-              "nombre": "Azucar",
-              "precio": 5,
-              "tipo": "Extras"
-            }
-          ],
-          "cantidad": 4,
-          "comentario": "Prueba 2",
-          "id_producto": 1,
-          "nombre_producto": "Caramel Latte",
-          "personalizacion": [
-            {
-              "cantidad": 1,
-              "nombre": "12 onzas",
-              "precio": 15,
-              "tipo": "Tamano"
-            }
-          ]
-        }
-      ],
-      "direccion": "Quito - Eloy Alfaro",
-      "estado": "comanda",
-      "fecha_registro": "2020-09-25 00:00:00",
-      "fee_domicilio": true,
-      "historico": [
-        {
-          "hora": "12:15",
-          "nombre": "aprobado"
-        },
-        {
-          "hora": "12:20",
-          "nombre": "commanda"
-        },
-        {
-          "hora": "12:40",
-          "nombre": "enviado"
-        }
-      ],
-      "id": 1,
-      "id_cliente": 9,
-      "id_estado": 9,
-      "metodo_pago": "efectivo",
-      "nombre_cliente": "Maria Brito",
+      "nombre_cliente": "Lucia Godoy",
       "referencia": "Frente a tu casa",
       "telefono": "9999999999"
     },
@@ -286,13 +177,13 @@
           "nombre": "enviado"
         }
       ],
-      "id": 2,
-      "id_cliente": 16,
-      "id_estado": 5,
+      "id": 1,
+      "id_cliente": 15,
+      "id_estado": 6,
       "metodo_pago": "efectivo",
-      "nombre_cliente": "Maria Abad",
+      "nombre_cliente": "Juan Abad",
       "referencia": "Frente a tu casa",
-      "telefono": "00000000000"
+      "telefono": "9999999999"
     }
   ]
 }
