@@ -1,64 +1,144 @@
 {
   "clientes": [
     {
-      "apellidos": "Godoy",
-      "mail": "qqqqqq@gmail.com",
-      "nombres": "Adderly",
-      "telefono": "0998659742"
-    },
-    {
-      "apellidos": "Godoy",
-      "mail": "eeeee@gmail.com",
-      "nombres": "Lucia",
-      "telefono": "00000000000"
-    },
-    {
-      "apellidos": "Brito",
-      "mail": "qqqqqq@gmail.com",
-      "nombres": "Lucia",
-      "telefono": "0998659742"
-    },
-    {
-      "apellidos": "Godoy",
-      "mail": "eeeee@gmail.com",
-      "nombres": "Lucia",
-      "telefono": "00000000000"
-    },
-    {
-      "apellidos": "Godoy",
-      "mail": "qqqqqq@gmail.com",
-      "nombres": "Manuel",
-      "telefono": "0998659742"
+      "apellidos": "Torres",
+      "id": 0,
+      "mail": "wwwwww@gmail.com",
+      "nombres": "Juan",
+      "telefono": "0642875319"
     },
     {
       "apellidos": "Abad",
-      "mail": "eeeee@gmail.com",
-      "nombres": "Adderly",
-      "telefono": "9999999999"
-    },
-    {
-      "apellidos": "Abad",
-      "mail": "rrrrrr@gmail.com",
+      "id": 1,
+      "mail": "qqqqqq@gmail.com",
       "nombres": "Juan",
       "telefono": "0998659742"
     },
     {
+      "apellidos": "Godoy",
+      "id": 2,
+      "mail": "eeeee@gmail.com",
+      "nombres": "Maria",
+      "telefono": "9999999999"
+    },
+    {
       "apellidos": "Abad",
+      "id": 3,
       "mail": "qqqqqq@gmail.com",
       "nombres": "Manuel",
       "telefono": "1234567890"
     },
     {
       "apellidos": "Abad",
+      "id": 4,
+      "mail": "eeeee@gmail.com",
+      "nombres": "Adderly",
+      "telefono": "1234567890"
+    },
+    {
+      "apellidos": "Godoy",
+      "id": 5,
+      "mail": "rrrrrr@gmail.com",
+      "nombres": "Maria",
+      "telefono": "9999999999"
+    },
+    {
+      "apellidos": "Torres",
+      "id": 6,
       "mail": "wwwwww@gmail.com",
       "nombres": "Juan",
+      "telefono": "0642875319"
+    },
+    {
+      "apellidos": "Brito",
+      "id": 7,
+      "mail": "qqqqqq@gmail.com",
+      "nombres": "Maria",
+      "telefono": "00000000000"
+    },
+    {
+      "apellidos": "Abad",
+      "id": 8,
+      "mail": "eeeee@gmail.com",
+      "nombres": "Lucia",
       "telefono": "00000000000"
     },
     {
       "apellidos": "Brito",
+      "id": 9,
       "mail": "eeeee@gmail.com",
       "nombres": "Maria",
+      "telefono": "1234567890"
+    },
+    {
+      "apellidos": "Torres",
+      "id": 10,
+      "mail": "eeeee@gmail.com",
+      "nombres": "Juan",
+      "telefono": "1234567890"
+    },
+    {
+      "apellidos": "Brito",
+      "id": 11,
+      "mail": "rrrrrr@gmail.com",
+      "nombres": "Adderly",
       "telefono": "0998659742"
+    },
+    {
+      "apellidos": "Torres",
+      "id": 12,
+      "mail": "qqqqqq@gmail.com",
+      "nombres": "Lucia",
+      "telefono": "0642875319"
+    },
+    {
+      "apellidos": "Abad",
+      "id": 13,
+      "mail": "qqqqqq@gmail.com",
+      "nombres": "Juan",
+      "telefono": "1234567890"
+    },
+    {
+      "apellidos": "Torres",
+      "id": 14,
+      "mail": "eeeee@gmail.com",
+      "nombres": "Adderly",
+      "telefono": "0642875319"
+    },
+    {
+      "apellidos": "Torres",
+      "id": 15,
+      "mail": "qqqqqq@gmail.com",
+      "nombres": "Maria",
+      "telefono": "1234567890"
+    },
+    {
+      "apellidos": "Godoy",
+      "id": 16,
+      "mail": "qqqqqq@gmail.com",
+      "nombres": "Lucia",
+      "telefono": "00000000000"
+    },
+    {
+      "apellidos": "Brito",
+      "id": 17,
+      "mail": "rrrrrr@gmail.com",
+      "nombres": "Manuel",
+      "telefono": "1234567890"
+    },
+    {
+      "apellidos": "Abad",
+      "id": 18,
+      "mail": "wwwwww@gmail.com",
+      "nombres": "Lucia",
+      "telefono": "0642875319"
+    },
+    {
+      "apellidos": "Torres",
+      "id": 19,
+      "mail": "qqqqqq@gmail.com",
+      "nombres": "Maria",
+      "telefono": "00000000000"
     }
   ],
   "ordenes": [
@@ -128,229 +208,11 @@
           "nombre": "enviado"
         }
       ],
-      "id_cliente": 4140,
-      "id_estado": 1,
-      "metodo_pago": "efectivo",
-      "nombre_cliente": "Maria Godoy",
-      "referencia": "Frente a tu casa",
-      "telefono": "0642875319"
-    },
-    {
-      "cambio": "de 100",
-      "detail_order": [
-        {
-          "adicionales": [
-            {
-              "cantidad": 1,
-              "nombre": "Azucar",
-              "precio": 5,
-              "tipo": "Extras"
-            }
-          ],
-          "cantidad": 4,
-          "comentario": "Prueba 1",
-          "id_producto": 1,
-          "nombre_producto": "Caramel Latte",
-          "personalizacion": [
-            {
-              "cantidad": 1,
-              "nombre": "12 onzas",
-              "precio": 15,
-              "tipo": "Tamano"
-            }
-          ]
-        },
-        {
-          "adicionales": [
-            {
-              "cantidad": 1,
-              "nombre": "Azucar",
-              "precio": 5,
-              "tipo": "Extras"
-            }
-          ],
-          "cantidad": 4,
-          "comentario": "Prueba 2",
-          "id_producto": 1,
-          "nombre_producto": "Caramel Latte",
-          "personalizacion": [
-            {
-              "cantidad": 1,
-              "nombre": "12 onzas",
-              "precio": 15,
-              "tipo": "Tamano"
-            }
-          ]
-        }
-      ],
-      "direccion": "Quito - Eloy Alfaro",
-      "estado": "comanda",
-      "fecha_registro": "2020-09-25 00:00:00",
-      "fee_domicilio": true,
-      "historico": [
-        {
-          "hora": "12:15",
-          "nombre": "aprobado"
-        },
-        {
-          "hora": "12:20",
-          "nombre": "commanda"
-        },
-        {
-          "hora": "12:40",
-          "nombre": "enviado"
-        }
-      ],
-      "id_cliente": 12755,
+      "id": 0,
+      "id_cliente": 3,
       "id_estado": 5,
       "metodo_pago": "efectivo",
-      "nombre_cliente": "Adderly Torres",
-      "referencia": "Frente a tu casa",
-      "telefono": "0642875319"
-    },
-    {
-      "cambio": "de 100",
-      "detail_order": [
-        {
-          "adicionales": [
-            {
-              "cantidad": 1,
-              "nombre": "Azucar",
-              "precio": 5,
-              "tipo": "Extras"
-            }
-          ],
-          "cantidad": 4,
-          "comentario": "Prueba 1",
-          "id_producto": 1,
-          "nombre_producto": "Caramel Latte",
-          "personalizacion": [
-            {
-              "cantidad": 1,
-              "nombre": "12 onzas",
-              "precio": 15,
-              "tipo": "Tamano"
-            }
-          ]
-        },
-        {
-          "adicionales": [
-            {
-              "cantidad": 1,
-              "nombre": "Azucar",
-              "precio": 5,
-              "tipo": "Extras"
-            }
-          ],
-          "cantidad": 4,
-          "comentario": "Prueba 2",
-          "id_producto": 1,
-          "nombre_producto": "Caramel Latte",
-          "personalizacion": [
-            {
-              "cantidad": 1,
-              "nombre": "12 onzas",
-              "precio": 15,
-              "tipo": "Tamano"
-            }
-          ]
-        }
-      ],
-      "direccion": "Quito - Eloy Alfaro",
-      "estado": "comanda",
-      "fecha_registro": "2020-09-25 00:00:00",
-      "fee_domicilio": true,
-      "historico": [
-        {
-          "hora": "12:15",
-          "nombre": "aprobado"
-        },
-        {
-          "hora": "12:20",
-          "nombre": "commanda"
-        },
-        {
-          "hora": "12:40",
-          "nombre": "enviado"
-        }
-      ],
-      "id_cliente": 14592,
-      "id_estado": 2,
-      "metodo_pago": "efectivo",
-      "nombre_cliente": "Lucia Godoy",
-      "referencia": "Frente a tu casa",
-      "telefono": "0642875319"
-    },
-    {
-      "cambio": "de 100",
-      "detail_order": [
-        {
-          "adicionales": [
-            {
-              "cantidad": 1,
-              "nombre": "Azucar",
-              "precio": 5,
-              "tipo": "Extras"
-            }
-          ],
-          "cantidad": 4,
-          "comentario": "Prueba 1",
-          "id_producto": 1,
-          "nombre_producto": "Caramel Latte",
-          "personalizacion": [
-            {
-              "cantidad": 1,
-              "nombre": "12 onzas",
-              "precio": 15,
-              "tipo": "Tamano"
-            }
-          ]
-        },
-        {
-          "adicionales": [
-            {
-              "cantidad": 1,
-              "nombre": "Azucar",
-              "precio": 5,
-              "tipo": "Extras"
-            }
-          ],
-          "cantidad": 4,
-          "comentario": "Prueba 2",
-          "id_producto": 1,
-          "nombre_producto": "Caramel Latte",
-          "personalizacion": [
-            {
-              "cantidad": 1,
-              "nombre": "12 onzas",
-              "precio": 15,
-              "tipo": "Tamano"
-            }
-          ]
-        }
-      ],
-      "direccion": "Quito - Eloy Alfaro",
-      "estado": "comanda",
-      "fecha_registro": "2020-09-25 00:00:00",
-      "fee_domicilio": true,
-      "historico": [
-        {
-          "hora": "12:15",
-          "nombre": "aprobado"
-        },
-        {
-          "hora": "12:20",
-          "nombre": "commanda"
-        },
-        {
-          "hora": "12:40",
-          "nombre": "enviado"
-        }
-      ],
-      "id_cliente": 9454,
-      "id_estado": 9,
-      "metodo_pago": "efectivo",
-      "nombre_cliente": "Juan Torres",
+      "nombre_cliente": "Maria Godoy",
       "referencia": "Frente a tu casa",
       "telefono": "1234567890"
     },
@@ -420,10 +282,85 @@
           "nombre": "enviado"
         }
       ],
-      "id_cliente": 8608,
-      "id_estado": 6,
+      "id": 1,
+      "id_cliente": 8,
+      "id_estado": 3,
       "metodo_pago": "efectivo",
-      "nombre_cliente": "Manuel Abad",
+      "nombre_cliente": "Juan Godoy",
+      "referencia": "Frente a tu casa",
+      "telefono": "0642875319"
+    },
+    {
+      "cambio": "de 100",
+      "detail_order": [
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 1",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        },
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 2",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        }
+      ],
+      "direccion": "Quito - Eloy Alfaro",
+      "estado": "comanda",
+      "fecha_registro": "2020-09-25 00:00:00",
+      "fee_domicilio": true,
+      "historico": [
+        {
+          "hora": "12:15",
+          "nombre": "aprobado"
+        },
+        {
+          "hora": "12:20",
+          "nombre": "commanda"
+        },
+        {
+          "hora": "12:40",
+          "nombre": "enviado"
+        }
+      ],
+      "id": 2,
+      "id_cliente": 10,
+      "id_estado": 5,
+      "metodo_pago": "efectivo",
+      "nombre_cliente": "Juan Godoy",
       "referencia": "Frente a tu casa",
       "telefono": "9999999999"
     },
@@ -493,12 +430,13 @@
           "nombre": "enviado"
         }
       ],
-      "id_cliente": 2266,
-      "id_estado": 9,
+      "id": 3,
+      "id_cliente": 1,
+      "id_estado": 8,
       "metodo_pago": "efectivo",
-      "nombre_cliente": "Juan Abad",
+      "nombre_cliente": "Manuel Godoy",
       "referencia": "Frente a tu casa",
-      "telefono": "00000000000"
+      "telefono": "9999999999"
     },
     {
       "cambio": "de 100",
@@ -566,83 +504,233 @@
           "nombre": "enviado"
         }
       ],
-      "id_cliente": 2632,
-      "id_estado": 9,
-      "metodo_pago": "efectivo",
-      "nombre_cliente": "Juan Abad",
-      "referencia": "Frente a tu casa",
-      "telefono": "00000000000"
-    },
-    {
-      "cambio": "de 100",
-      "detail_order": [
-        {
-          "adicionales": [
-            {
-              "cantidad": 1,
-              "nombre": "Azucar",
-              "precio": 5,
-              "tipo": "Extras"
-            }
-          ],
-          "cantidad": 4,
-          "comentario": "Prueba 1",
-          "id_producto": 1,
-          "nombre_producto": "Caramel Latte",
-          "personalizacion": [
-            {
-              "cantidad": 1,
-              "nombre": "12 onzas",
-              "precio": 15,
-              "tipo": "Tamano"
-            }
-          ]
-        },
-        {
-          "adicionales": [
-            {
-              "cantidad": 1,
-              "nombre": "Azucar",
-              "precio": 5,
-              "tipo": "Extras"
-            }
-          ],
-          "cantidad": 4,
-          "comentario": "Prueba 2",
-          "id_producto": 1,
-          "nombre_producto": "Caramel Latte",
-          "personalizacion": [
-            {
-              "cantidad": 1,
-              "nombre": "12 onzas",
-              "precio": 15,
-              "tipo": "Tamano"
-            }
-          ]
-        }
-      ],
-      "direccion": "Quito - Eloy Alfaro",
-      "estado": "comanda",
-      "fecha_registro": "2020-09-25 00:00:00",
-      "fee_domicilio": true,
-      "historico": [
-        {
-          "hora": "12:15",
-          "nombre": "aprobado"
-        },
-        {
-          "hora": "12:20",
-          "nombre": "commanda"
-        },
-        {
-          "hora": "12:40",
-          "nombre": "enviado"
-        }
-      ],
-      "id_cliente": 9794,
+      "id": 4,
+      "id_cliente": 6,
       "id_estado": 2,
       "metodo_pago": "efectivo",
-      "nombre_cliente": "Maria Abad",
+      "nombre_cliente": "Lucia Brito",
+      "referencia": "Frente a tu casa",
+      "telefono": "9999999999"
+    },
+    {
+      "cambio": "de 100",
+      "detail_order": [
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 1",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        },
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 2",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        }
+      ],
+      "direccion": "Quito - Eloy Alfaro",
+      "estado": "comanda",
+      "fecha_registro": "2020-09-25 00:00:00",
+      "fee_domicilio": true,
+      "historico": [
+        {
+          "hora": "12:15",
+          "nombre": "aprobado"
+        },
+        {
+          "hora": "12:20",
+          "nombre": "commanda"
+        },
+        {
+          "hora": "12:40",
+          "nombre": "enviado"
+        }
+      ],
+      "id": 5,
+      "id_cliente": 12,
+      "id_estado": 7,
+      "metodo_pago": "efectivo",
+      "nombre_cliente": "Juan Abad",
+      "referencia": "Frente a tu casa",
+      "telefono": "0998659742"
+    },
+    {
+      "cambio": "de 100",
+      "detail_order": [
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 1",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        },
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 2",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        }
+      ],
+      "direccion": "Quito - Eloy Alfaro",
+      "estado": "comanda",
+      "fecha_registro": "2020-09-25 00:00:00",
+      "fee_domicilio": true,
+      "historico": [
+        {
+          "hora": "12:15",
+          "nombre": "aprobado"
+        },
+        {
+          "hora": "12:20",
+          "nombre": "commanda"
+        },
+        {
+          "hora": "12:40",
+          "nombre": "enviado"
+        }
+      ],
+      "id": 6,
+      "id_cliente": 7,
+      "id_estado": 9,
+      "metodo_pago": "efectivo",
+      "nombre_cliente": "Manuel Godoy",
+      "referencia": "Frente a tu casa",
+      "telefono": "00000000000"
+    },
+    {
+      "cambio": "de 100",
+      "detail_order": [
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 1",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        },
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 2",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        }
+      ],
+      "direccion": "Quito - Eloy Alfaro",
+      "estado": "comanda",
+      "fecha_registro": "2020-09-25 00:00:00",
+      "fee_domicilio": true,
+      "historico": [
+        {
+          "hora": "12:15",
+          "nombre": "aprobado"
+        },
+        {
+          "hora": "12:20",
+          "nombre": "commanda"
+        },
+        {
+          "hora": "12:40",
+          "nombre": "enviado"
+        }
+      ],
+      "id": 7,
+      "id_cliente": 18,
+      "id_estado": 9,
+      "metodo_pago": "efectivo",
+      "nombre_cliente": "Manuel Godoy",
       "referencia": "Frente a tu casa",
       "telefono": "0642875319"
     },
@@ -712,10 +800,85 @@
           "nombre": "enviado"
         }
       ],
-      "id_cliente": 8965,
-      "id_estado": 5,
+      "id": 8,
+      "id_cliente": 1,
+      "id_estado": 8,
       "metodo_pago": "efectivo",
-      "nombre_cliente": "Maria Godoy",
+      "nombre_cliente": "Lucia Abad",
+      "referencia": "Frente a tu casa",
+      "telefono": "0642875319"
+    },
+    {
+      "cambio": "de 100",
+      "detail_order": [
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 1",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        },
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 2",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        }
+      ],
+      "direccion": "Quito - Eloy Alfaro",
+      "estado": "comanda",
+      "fecha_registro": "2020-09-25 00:00:00",
+      "fee_domicilio": true,
+      "historico": [
+        {
+          "hora": "12:15",
+          "nombre": "aprobado"
+        },
+        {
+          "hora": "12:20",
+          "nombre": "commanda"
+        },
+        {
+          "hora": "12:40",
+          "nombre": "enviado"
+        }
+      ],
+      "id": 9,
+      "id_cliente": 6,
+      "id_estado": 2,
+      "metodo_pago": "efectivo",
+      "nombre_cliente": "Adderly Godoy",
       "referencia": "Frente a tu casa",
       "telefono": "1234567890"
     },
@@ -785,12 +948,679 @@
           "nombre": "enviado"
         }
       ],
-      "id_cliente": 2771,
-      "id_estado": 9,
+      "id": 10,
+      "id_cliente": 8,
+      "id_estado": 4,
       "metodo_pago": "efectivo",
-      "nombre_cliente": "Maria Abad",
+      "nombre_cliente": "Lucia Godoy",
+      "referencia": "Frente a tu casa",
+      "telefono": "1234567890"
+    },
+    {
+      "cambio": "de 100",
+      "detail_order": [
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 1",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        },
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 2",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        }
+      ],
+      "direccion": "Quito - Eloy Alfaro",
+      "estado": "comanda",
+      "fecha_registro": "2020-09-25 00:00:00",
+      "fee_domicilio": true,
+      "historico": [
+        {
+          "hora": "12:15",
+          "nombre": "aprobado"
+        },
+        {
+          "hora": "12:20",
+          "nombre": "commanda"
+        },
+        {
+          "hora": "12:40",
+          "nombre": "enviado"
+        }
+      ],
+      "id": 11,
+      "id_cliente": 19,
+      "id_estado": 8,
+      "metodo_pago": "efectivo",
+      "nombre_cliente": "Adderly Godoy",
+      "referencia": "Frente a tu casa",
+      "telefono": "9999999999"
+    },
+    {
+      "cambio": "de 100",
+      "detail_order": [
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 1",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        },
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 2",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        }
+      ],
+      "direccion": "Quito - Eloy Alfaro",
+      "estado": "comanda",
+      "fecha_registro": "2020-09-25 00:00:00",
+      "fee_domicilio": true,
+      "historico": [
+        {
+          "hora": "12:15",
+          "nombre": "aprobado"
+        },
+        {
+          "hora": "12:20",
+          "nombre": "commanda"
+        },
+        {
+          "hora": "12:40",
+          "nombre": "enviado"
+        }
+      ],
+      "id": 12,
+      "id_cliente": 14,
+      "id_estado": 5,
+      "metodo_pago": "efectivo",
+      "nombre_cliente": "Juan Brito",
+      "referencia": "Frente a tu casa",
+      "telefono": "9999999999"
+    },
+    {
+      "cambio": "de 100",
+      "detail_order": [
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 1",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        },
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 2",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        }
+      ],
+      "direccion": "Quito - Eloy Alfaro",
+      "estado": "comanda",
+      "fecha_registro": "2020-09-25 00:00:00",
+      "fee_domicilio": true,
+      "historico": [
+        {
+          "hora": "12:15",
+          "nombre": "aprobado"
+        },
+        {
+          "hora": "12:20",
+          "nombre": "commanda"
+        },
+        {
+          "hora": "12:40",
+          "nombre": "enviado"
+        }
+      ],
+      "id": 13,
+      "id_cliente": 4,
+      "id_estado": 6,
+      "metodo_pago": "efectivo",
+      "nombre_cliente": "Juan Godoy",
+      "referencia": "Frente a tu casa",
+      "telefono": "0642875319"
+    },
+    {
+      "cambio": "de 100",
+      "detail_order": [
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 1",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        },
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 2",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        }
+      ],
+      "direccion": "Quito - Eloy Alfaro",
+      "estado": "comanda",
+      "fecha_registro": "2020-09-25 00:00:00",
+      "fee_domicilio": true,
+      "historico": [
+        {
+          "hora": "12:15",
+          "nombre": "aprobado"
+        },
+        {
+          "hora": "12:20",
+          "nombre": "commanda"
+        },
+        {
+          "hora": "12:40",
+          "nombre": "enviado"
+        }
+      ],
+      "id": 14,
+      "id_cliente": 3,
+      "id_estado": 4,
+      "metodo_pago": "efectivo",
+      "nombre_cliente": "Juan Abad",
+      "referencia": "Frente a tu casa",
+      "telefono": "0642875319"
+    },
+    {
+      "cambio": "de 100",
+      "detail_order": [
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 1",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        },
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 2",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        }
+      ],
+      "direccion": "Quito - Eloy Alfaro",
+      "estado": "comanda",
+      "fecha_registro": "2020-09-25 00:00:00",
+      "fee_domicilio": true,
+      "historico": [
+        {
+          "hora": "12:15",
+          "nombre": "aprobado"
+        },
+        {
+          "hora": "12:20",
+          "nombre": "commanda"
+        },
+        {
+          "hora": "12:40",
+          "nombre": "enviado"
+        }
+      ],
+      "id": 15,
+      "id_cliente": 9,
+      "id_estado": 5,
+      "metodo_pago": "efectivo",
+      "nombre_cliente": "Manuel Godoy",
+      "referencia": "Frente a tu casa",
+      "telefono": "0642875319"
+    },
+    {
+      "cambio": "de 100",
+      "detail_order": [
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 1",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        },
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 2",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        }
+      ],
+      "direccion": "Quito - Eloy Alfaro",
+      "estado": "comanda",
+      "fecha_registro": "2020-09-25 00:00:00",
+      "fee_domicilio": true,
+      "historico": [
+        {
+          "hora": "12:15",
+          "nombre": "aprobado"
+        },
+        {
+          "hora": "12:20",
+          "nombre": "commanda"
+        },
+        {
+          "hora": "12:40",
+          "nombre": "enviado"
+        }
+      ],
+      "id": 16,
+      "id_cliente": 12,
+      "id_estado": 6,
+      "metodo_pago": "efectivo",
+      "nombre_cliente": "Manuel Godoy",
       "referencia": "Frente a tu casa",
       "telefono": "00000000000"
+    },
+    {
+      "cambio": "de 100",
+      "detail_order": [
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 1",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        },
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 2",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        }
+      ],
+      "direccion": "Quito - Eloy Alfaro",
+      "estado": "comanda",
+      "fecha_registro": "2020-09-25 00:00:00",
+      "fee_domicilio": true,
+      "historico": [
+        {
+          "hora": "12:15",
+          "nombre": "aprobado"
+        },
+        {
+          "hora": "12:20",
+          "nombre": "commanda"
+        },
+        {
+          "hora": "12:40",
+          "nombre": "enviado"
+        }
+      ],
+      "id": 17,
+      "id_cliente": 13,
+      "id_estado": 3,
+      "metodo_pago": "efectivo",
+      "nombre_cliente": "Lucia Torres",
+      "referencia": "Frente a tu casa",
+      "telefono": "1234567890"
+    },
+    {
+      "cambio": "de 100",
+      "detail_order": [
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 1",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        },
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 2",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        }
+      ],
+      "direccion": "Quito - Eloy Alfaro",
+      "estado": "comanda",
+      "fecha_registro": "2020-09-25 00:00:00",
+      "fee_domicilio": true,
+      "historico": [
+        {
+          "hora": "12:15",
+          "nombre": "aprobado"
+        },
+        {
+          "hora": "12:20",
+          "nombre": "commanda"
+        },
+        {
+          "hora": "12:40",
+          "nombre": "enviado"
+        }
+      ],
+      "id": 18,
+      "id_cliente": 14,
+      "id_estado": 7,
+      "metodo_pago": "efectivo",
+      "nombre_cliente": "Lucia Abad",
+      "referencia": "Frente a tu casa",
+      "telefono": "00000000000"
+    },
+    {
+      "cambio": "de 100",
+      "detail_order": [
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 1",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        },
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 2",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        }
+      ],
+      "direccion": "Quito - Eloy Alfaro",
+      "estado": "comanda",
+      "fecha_registro": "2020-09-25 00:00:00",
+      "fee_domicilio": true,
+      "historico": [
+        {
+          "hora": "12:15",
+          "nombre": "aprobado"
+        },
+        {
+          "hora": "12:20",
+          "nombre": "commanda"
+        },
+        {
+          "hora": "12:40",
+          "nombre": "enviado"
+        }
+      ],
+      "id": 19,
+      "id_cliente": 20,
+      "id_estado": 3,
+      "metodo_pago": "efectivo",
+      "nombre_cliente": "Manuel Godoy",
+      "referencia": "Frente a tu casa",
+      "telefono": "0998659742"
     }
   ]
 }
