@@ -3,37 +3,42 @@
     {
       "apellidos": "Abad",
       "id": 0,
-      "mail": "rrrrrr@gmail.com",
+      "img": "https://www.planetromeo.com/wp-content/uploads/2019/10/pepp-photo-background-02.jpg",
+      "mail": "qqqqqq@gmail.com",
       "nombres": "Lucia",
+      "telefono": "0642875319"
+    },
+    {
+      "apellidos": "Abad",
+      "id": 1,
+      "img": "https://www.beauty-shooter.de/wp-content/uploads/Galerie-Portraits-Profilbilder-18.jpg",
+      "mail": "rrrrrr@gmail.com",
+      "nombres": "Adderly",
       "telefono": "1234567890"
     },
     {
       "apellidos": "Godoy",
-      "id": 1,
-      "mail": "rrrrrr@gmail.com",
-      "nombres": "Juan",
-      "telefono": "9999999999"
-    },
-    {
-      "apellidos": "Torres",
       "id": 2,
-      "mail": "wwwwww@gmail.com",
-      "nombres": "Lucia",
-      "telefono": "0998659742"
+      "img": "https://www.beauty-shooter.de/wp-content/uploads/Galerie-Portraits-Profilbilder-18.jpg",
+      "mail": "eeeee@gmail.com",
+      "nombres": "Adderly",
+      "telefono": "0642875319"
     },
     {
       "apellidos": "Torres",
       "id": 3,
-      "mail": "rrrrrr@gmail.com",
-      "nombres": "Lucia",
-      "telefono": "1234567890"
+      "img": "https://www.beauty-shooter.de/wp-content/uploads/Galerie-Portraits-Profilbilder-18.jpg",
+      "mail": "wwwwww@gmail.com",
+      "nombres": "Maria",
+      "telefono": "00000000000"
     },
     {
       "apellidos": "Godoy",
       "id": 4,
-      "mail": "rrrrrr@gmail.com",
-      "nombres": "Maria",
-      "telefono": "00000000000"
+      "img": "https://www.dzoom.org.es/wp-content/uploads/2020/02/portada-foto-perfil-redes-sociales-consejos-810x540.jpg",
+      "mail": "wwwwww@gmail.com",
+      "nombres": "Manuel",
+      "telefono": "9999999999"
     }
   ],
   "ordenes": [
@@ -104,12 +109,12 @@
         }
       ],
       "id": 0,
-      "id_cliente": 13,
+      "id_cliente": 8,
       "id_estado": 3,
       "metodo_pago": "efectivo",
-      "nombre_cliente": "Lucia Godoy",
+      "nombre_cliente": "Manuel Torres",
       "referencia": "Frente a tu casa",
-      "telefono": "9999999999"
+      "telefono": "1234567890"
     },
     {
       "cambio": "de 100",
@@ -178,12 +183,12 @@
         }
       ],
       "id": 1,
-      "id_cliente": 15,
-      "id_estado": 6,
+      "id_cliente": 3,
+      "id_estado": 9,
       "metodo_pago": "efectivo",
-      "nombre_cliente": "Juan Abad",
+      "nombre_cliente": "Maria Brito",
       "referencia": "Frente a tu casa",
-      "telefono": "9999999999"
+      "telefono": "1234567890"
     }
   ]
 }
