@@ -3,41 +3,81 @@
     {
       "apellidos": "Abad",
       "id": 0,
-      "img": "https://www.planetromeo.com/wp-content/uploads/2019/10/pepp-photo-background-02.jpg",
-      "mail": "qqqqqq@gmail.com",
-      "nombres": "Lucia",
-      "telefono": "0642875319"
-    },
-    {
-      "apellidos": "Abad",
-      "id": 1,
-      "img": "https://www.beauty-shooter.de/wp-content/uploads/Galerie-Portraits-Profilbilder-18.jpg",
+      "img": "https://www.dzoom.org.es/wp-content/uploads/2020/02/portada-foto-perfil-redes-sociales-consejos-810x540.jpg",
       "mail": "rrrrrr@gmail.com",
-      "nombres": "Adderly",
-      "telefono": "1234567890"
+      "nombres": "Juan",
+      "telefono": "0998659742"
     },
     {
       "apellidos": "Godoy",
-      "id": 2,
+      "id": 1,
       "img": "https://www.beauty-shooter.de/wp-content/uploads/Galerie-Portraits-Profilbilder-18.jpg",
-      "mail": "eeeee@gmail.com",
-      "nombres": "Adderly",
-      "telefono": "0642875319"
-    },
-    {
-      "apellidos": "Torres",
-      "id": 3,
-      "img": "https://www.beauty-shooter.de/wp-content/uploads/Galerie-Portraits-Profilbilder-18.jpg",
-      "mail": "wwwwww@gmail.com",
+      "mail": "qqqqqq@gmail.com",
       "nombres": "Maria",
       "telefono": "00000000000"
     },
     {
       "apellidos": "Godoy",
+      "id": 2,
+      "img": "https://www.planetromeo.com/wp-content/uploads/2019/10/pepp-photo-background-02.jpg",
+      "mail": "eeeee@gmail.com",
+      "nombres": "Adderly",
+      "telefono": "9999999999"
+    },
+    {
+      "apellidos": "Abad",
+      "id": 3,
+      "img": "https://www.planetromeo.com/wp-content/uploads/2019/10/pepp-photo-background-02.jpg",
+      "mail": "eeeee@gmail.com",
+      "nombres": "Juan",
+      "telefono": "9999999999"
+    },
+    {
+      "apellidos": "Brito",
       "id": 4,
+      "img": "https://www.planetromeo.com/wp-content/uploads/2019/10/pepp-photo-background-02.jpg",
+      "mail": "rrrrrr@gmail.com",
+      "nombres": "Manuel",
+      "telefono": "0998659742"
+    },
+    {
+      "apellidos": "Abad",
+      "id": 5,
       "img": "https://www.dzoom.org.es/wp-content/uploads/2020/02/portada-foto-perfil-redes-sociales-consejos-810x540.jpg",
       "mail": "wwwwww@gmail.com",
       "nombres": "Manuel",
+      "telefono": "00000000000"
+    },
+    {
+      "apellidos": "Godoy",
+      "id": 6,
+      "img": "https://www.planetromeo.com/wp-content/uploads/2019/10/pepp-photo-background-02.jpg",
+      "mail": "wwwwww@gmail.com",
+      "nombres": "Manuel",
+      "telefono": "9999999999"
+    },
+    {
+      "apellidos": "Godoy",
+      "id": 7,
+      "img": "https://www.beauty-shooter.de/wp-content/uploads/Galerie-Portraits-Profilbilder-18.jpg",
+      "mail": "rrrrrr@gmail.com",
+      "nombres": "Adderly",
+      "telefono": "0998659742"
+    },
+    {
+      "apellidos": "Torres",
+      "id": 8,
+      "img": "https://www.beauty-shooter.de/wp-content/uploads/Galerie-Portraits-Profilbilder-18.jpg",
+      "mail": "wwwwww@gmail.com",
+      "nombres": "Juan",
+      "telefono": "0642875319"
+    },
+    {
+      "apellidos": "Brito",
+      "id": 9,
+      "img": "https://www.beauty-shooter.de/wp-content/uploads/Galerie-Portraits-Profilbilder-18.jpg",
+      "mail": "wwwwww@gmail.com",
+      "nombres": "Juan",
       "telefono": "9999999999"
     }
   ],
@@ -70,9 +110,13 @@
         {
           "adicionales": [
             {
-              "cantidad": 1,
+              "cantidad": 2,
               "nombre": "Azucar",
-              "precio": 5,
+              "tipo": "Extras"
+            },
+            {
+              "cantidad": 3,
+              "nombre": "Miel",
               "tipo": "Extras"
             }
           ],
@@ -84,8 +128,12 @@
             {
               "cantidad": 1,
               "nombre": "12 onzas",
-              "precio": 15,
               "tipo": "Tamano"
+            },
+            {
+              "cantidad": 1,
+              "nombre": "Chocolate",
+              "tipo": "Sabor"
             }
           ]
         }
@@ -109,12 +157,13 @@
         }
       ],
       "id": 0,
-      "id_cliente": 8,
-      "id_estado": 3,
+      "id_cliente": 20,
+      "id_estado": 7,
       "metodo_pago": "efectivo",
-      "nombre_cliente": "Manuel Torres",
+      "nombre_cliente": "Adderly Torres",
       "referencia": "Frente a tu casa",
-      "telefono": "1234567890"
+      "telefono": "00000000000",
+      "total": 200
     },
     {
       "cambio": "de 100",
@@ -144,9 +193,13 @@
         {
           "adicionales": [
             {
-              "cantidad": 1,
+              "cantidad": 2,
               "nombre": "Azucar",
-              "precio": 5,
+              "tipo": "Extras"
+            },
+            {
+              "cantidad": 3,
+              "nombre": "Miel",
               "tipo": "Extras"
             }
           ],
@@ -158,8 +211,12 @@
             {
               "cantidad": 1,
               "nombre": "12 onzas",
-              "precio": 15,
               "tipo": "Tamano"
+            },
+            {
+              "cantidad": 1,
+              "nombre": "Chocolate",
+              "tipo": "Sabor"
             }
           ]
         }
@@ -183,12 +240,96 @@
         }
       ],
       "id": 1,
-      "id_cliente": 3,
+      "id_cliente": 17,
+      "id_estado": 5,
+      "metodo_pago": "efectivo",
+      "nombre_cliente": "Manuel Abad",
+      "referencia": "Frente a tu casa",
+      "telefono": "9999999999",
+      "total": 200
+    },
+    {
+      "cambio": "de 100",
+      "detail_order": [
+        {
+          "adicionales": [
+            {
+              "cantidad": 1,
+              "nombre": "Azucar",
+              "precio": 5,
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 1",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "precio": 15,
+              "tipo": "Tamano"
+            }
+          ]
+        },
+        {
+          "adicionales": [
+            {
+              "cantidad": 2,
+              "nombre": "Azucar",
+              "tipo": "Extras"
+            },
+            {
+              "cantidad": 3,
+              "nombre": "Miel",
+              "tipo": "Extras"
+            }
+          ],
+          "cantidad": 4,
+          "comentario": "Prueba 2",
+          "id_producto": 1,
+          "nombre_producto": "Caramel Latte",
+          "personalizacion": [
+            {
+              "cantidad": 1,
+              "nombre": "12 onzas",
+              "tipo": "Tamano"
+            },
+            {
+              "cantidad": 1,
+              "nombre": "Chocolate",
+              "tipo": "Sabor"
+            }
+          ]
+        }
+      ],
+      "direccion": "Quito - Eloy Alfaro",
+      "estado": "comanda",
+      "fecha_registro": "2020-09-25 00:00:00",
+      "fee_domicilio": true,
+      "historico": [
+        {
+          "hora": "12:15",
+          "nombre": "aprobado"
+        },
+        {
+          "hora": "12:20",
+          "nombre": "commanda"
+        },
+        {
+          "hora": "12:40",
+          "nombre": "enviado"
+        }
+      ],
+      "id": 2,
+      "id_cliente": 0,
       "id_estado": 9,
       "metodo_pago": "efectivo",
-      "nombre_cliente": "Maria Brito",
+      "nombre_cliente": "Manuel Brito",
       "referencia": "Frente a tu casa",
-      "telefono": "1234567890"
+      "telefono": "00000000000",
+      "total": 200
     }
   ]
 }
